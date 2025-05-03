@@ -1,3 +1,4 @@
 # Connect-XO
 - Adding GitHub pages CI/CD.
 - Optimizing time-complexity.
+- Fixing conditional statements.
