@@ -6,3 +6,4 @@
 - Validating output compiled.
 - Initializing Jest.
 - Increasing code-coverage.
+- Validating output compiled.
