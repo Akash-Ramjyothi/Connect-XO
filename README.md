@@ -8,3 +8,4 @@
 - Increasing code-coverage.
 - Validating output compiled.
 - Developing special flow.
+- Removing inexecutable cases.
