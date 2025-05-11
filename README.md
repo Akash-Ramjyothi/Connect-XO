@@ -9,3 +9,4 @@
 - Validating output compiled.
 - Developing special flow.
 - Removing inexecutable cases.
+- Increasing code-coverage.
