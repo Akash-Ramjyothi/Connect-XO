@@ -20,3 +20,4 @@
 - Increasing code-coverage further.
 - Mocking asynchronous blocks.
 - Creating multiple .test files.
+- Testing with various new test-cases.
